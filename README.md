@@ -9,6 +9,6 @@ Live at [brainrotcoin.me](https://brainrotcoin.me). Every change pushed here dep
 | `index.html` | The main page: concept, how it works, roadmap, rewards pool |
 | `earn.html` | The earn page: connect Phantom, upload your TikTok data, see your score (preview) |
 
-The rewards code lives in [brainrot-earn/brainrot-app](https://github.com/brainrot-earn/brainrot-app).
+**Repos:** [brainrot-app](https://github.com/brainrot-earn/brainrot-app) (rewards engine + earn page code) · [brainrotcoin.me](https://github.com/brainrot-earn/brainrotcoin.me) (the website, you are here)
 
 The real contract address is only ever posted on brainrotcoin.me and [@rotdotfun](https://x.com/rotdotfun).
